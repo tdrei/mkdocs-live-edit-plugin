@@ -16,7 +16,7 @@ setup(
     author='Eddy Luten',
     author_email='eddyluten@gmail.com',
     license='MIT',
-    python_requires='>=3.10',
+    python_requires='>=3.8',
     install_requires=[
         'mkdocs',
         'websockets',
